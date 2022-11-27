@@ -1,9 +1,4 @@
-
-download markdown
-
-download backup
-
-preview
+\
 <h1 align="center">Hi there👋, I'm Nick</h1>
 <h3 align="center">Student from Wroclaw, Poland</h3>
 
